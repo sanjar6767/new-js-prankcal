@@ -56,5 +56,6 @@ ayir.addEventListener("click",()=>{
 })
 
 teng.addEventListener("click",()=>{
-    ekran.value = "Bro, u dk"
+    ekran.value = "Bro, u dk 🥀"
+
 })
